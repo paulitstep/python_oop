@@ -41,7 +41,7 @@ class User:
         user.movies = movies
         return user
 
-    # CSV File Methods
+    # CSV file methods
 
     # def save_to_file(self):
     #     with open(f'{self.name}.txt', 'w') as f:
